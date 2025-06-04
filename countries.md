@@ -2,6 +2,7 @@
 -Kenya
 -Nigeria
 -Tanzania
+-Ethiopia
 
 # Europe
 -Germany
