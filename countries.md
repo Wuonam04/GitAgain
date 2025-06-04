@@ -8,3 +8,4 @@
 
 # Asia
 -China
+-Tawiwan
