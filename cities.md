@@ -2,3 +2,5 @@
 - Kisumu
 - Nairobi
 
+# Tanzania
+- Dodoma
