@@ -6,3 +6,5 @@
 # Tanzania
 - Dodoma
 - Iringa
+- Mwanza
+
