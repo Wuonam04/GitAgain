@@ -6,7 +6,9 @@
 
 # Europe
 -Germany
+- France
 
 # Asia
 -China
 -Tawiwan
+- Mongolia
