@@ -5,8 +5,10 @@
 -Ethiopia
 
 # Europe
--Germany
+- Germany
 - France
+- HUngary
+- Poland
 
 # Asia
 -China
