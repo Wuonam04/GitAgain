@@ -3,7 +3,7 @@ name: GitAgain CI/CD    #name
 
 on:
   #Triggers on what action?
-  ["push", "pull request"]
+  ["push", "pull_request"]
 
 jobs:   
     #specify jobs to run 
